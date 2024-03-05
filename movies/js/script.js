@@ -257,13 +257,13 @@ async function openFormAuth(){
             <h2 style="color: white;">Авторизация</h2>
             <form action="php/login.php" method="post" class="login">
                 <input type="text" placeholder="login" name="login">
-                <input type="text" placeholder="password" name="pass">
+                <input type="password" placeholder="password" name="pass">
                 <button type="submit" class="notification">Войти</button>
             </form>
             <form action="php/register.php" method="post" class="register">
                 <input type="text" placeholder="login" name="login">
-                <input type="text" placeholder="password" name="pass">
-                <input type="text" placeholder="repeat password" name="repeatpass">
+                <input type="password" placeholder="password" name="pass">
+                <input type="password" placeholder="repeat password" name="repeatpass">
                 <input type="text" placeholder="email" name="email">
                 <button type="submit" class="notification">Зарегистрироваться</button>
             </form>

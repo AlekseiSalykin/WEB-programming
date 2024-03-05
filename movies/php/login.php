@@ -52,3 +52,4 @@ $password = $_POST['pass'];
             }
     }
 }
+?>

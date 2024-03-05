@@ -29,7 +29,7 @@
     </main>
 
     <footer class="container">
-        <p>&copy; 2024 KINOPOTERYA</p>
+        <p>&copy; 2024 KINOPOTERY, Inc</p>
     </footer>
 </body>
 </html>

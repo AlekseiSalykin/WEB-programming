@@ -40,4 +40,4 @@ if(empty($login) || empty($password) || empty($repeatpassword) || empty($email))
         }
     }
 }
-
+?>

@@ -23,4 +23,4 @@ if (isset($_POST['kinopoiskId'])) {
 } else {
     echo "Invalid request";
 }
-?>
+?>  

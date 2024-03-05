@@ -10,4 +10,4 @@ if (isset($_SESSION['user_login'])) {
 } else {
     echo '<button type="button" class="authentication" id="authentication">Авторизация</button>';
 }
-?>
+?> 
